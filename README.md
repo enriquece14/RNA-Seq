@@ -6,6 +6,10 @@ Este código presenta los comandos para el análisis de los datos crudos. Dentro
 
 https://zenodo.org/records/13366857?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjAwODI5YWQwLWYwOTctNDgwOC1iNjI1LTkxYmQzMzhmMjY2MyIsImRhdGEiOnt9LCJyYW5kb20iOiI4ZTU3NjAwMTVkNjVjY2FmNGVlMWRkYWM5YTA2ODBhOSJ9.rZiPKfeULrXBmjuVOjFYUR6qajafun89yN-ye2_0--A8HGfHo32nxLtn83nPifnA8Y9y9D6t-m5bNviQaFOyvA
 
+#Archivo html del código de análisis de datos
+
+https://zenodo.org/records/13367317?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUwOTM4NWQ2LTE0NzMtNGI2OS1hMmVlLWI2ODQ2YWExZjkyMSIsImRhdGEiOnt9LCJyYW5kb20iOiIyZGVmNjg5MDMyOGU3MmQ4MDhlNmUwMTViNTU0MTE0YSJ9.dcLPszhOIHgOurjodpwoRl9_DNp2ritK2hsIWMiCLBycK18Dhrpn4PwcEOfPshSQ_abptLYLntVA0VMNlS2hhQ
+
 #Archivo txt de los datos
 
 Este archivo presenta la matriz con los transcritos a partir de los cuales se toma la información para el código
