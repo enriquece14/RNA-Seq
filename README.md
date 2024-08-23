@@ -1,6 +1,6 @@
 # RNA-Seq
 
-#Archivo html del código de análisis de datos
+#Archivo rmd del código de análisis de datos
 
 Este código presenta los comandos para el análisis de los datos crudos. Dentro de este se muestran comentarios que describen los bloques de código para un mayor entendimiento.
 
@@ -18,3 +18,5 @@ https://zenodo.org/uploads/13366874?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA5MDU1M
 Este archivo presenta un código para la creación de una interfaz interactiva con los datos.
 
 https://zenodo.org/records/13366915?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk3Y2FmZDUxLWNkNDEtNDk4OS04MTk5LTM0ZDI1Mjk0M2Q2NSIsImRhdGEiOnt9LCJyYW5kb20iOiIxM2VmYjQyN2UwMDc3ZGFkYzRlMGY3YjI5NTI5ODZlOSJ9.UbBW_y5ZCBLraBqZELuOZxBszIi2LFcQSmHBGs8pM1yw7JK7mMMAXb-WQ1oMJJfl-mraNOG1aoXqPOaiC2mXQw
+
+En los demás archivos dentro de este repositorio se encuentran los gráficos y los datos procesados obtenidos a partir del código encontrado  en #Archivo html del código
